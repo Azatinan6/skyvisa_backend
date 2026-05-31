@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "rapidapi.flights.url",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.flights.url'"
+  },
+  {
+    "name": "rapidapi.flights.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.flights.host'"
+  },
+  {
+    "name": "rapidapi.flights.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.flights.key'"
+  },
+  {
+    "name": "rapidapi.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.key'"
+  },
+  {
+    "name": "rapidapi.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.host'"
+  }
+]}

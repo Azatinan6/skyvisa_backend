@@ -1,0 +1,842 @@
+[
+  {
+    "origin": "IST",
+    "destination": "LHR",
+    "destinationCountryIso": "GBR",
+    "airline": "British Airways",
+    "price": 12250,
+    "departureDate": "2026-06-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "BEG",
+    "destinationCountryIso": "SRB",
+    "airline": "Air Serbia",
+    "price": 4200,
+    "departureDate": "2026-06-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "CDG",
+    "destinationCountryIso": "FRA",
+    "airline": "Air France",
+    "price": 14700,
+    "departureDate": "2026-06-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "DXB",
+    "destinationCountryIso": "ARE",
+    "airline": "Emirates",
+    "price": 17850,
+    "departureDate": "2026-06-02"
+  },
+  {
+    "origin": "IST",
+    "destination": "JFK",
+    "destinationCountryIso": "USA",
+    "airline": "Turkish Air",
+    "price": 34300,
+    "departureDate": "2026-06-03"
+  },
+  {
+    "origin": "IST",
+    "destination": "FCO",
+    "destinationCountryIso": "ITA",
+    "airline": "ITA Airways",
+    "price": 9800,
+    "departureDate": "2026-06-04"
+  },
+  {
+    "origin": "IST",
+    "destination": "AMS",
+    "destinationCountryIso": "NLD",
+    "airline": "KLM",
+    "price": 13650,
+    "departureDate": "2026-06-05"
+  },
+  {
+    "origin": "IST",
+    "destination": "MAD",
+    "destinationCountryIso": "ESP",
+    "airline": "Iberia",
+    "price": 14350,
+    "departureDate": "2026-06-06"
+  },
+  {
+    "origin": "IST",
+    "destination": "ATH",
+    "destinationCountryIso": "GRC",
+    "airline": "Aegean Air",
+    "price": 5600,
+    "departureDate": "2026-06-07"
+  },
+  {
+    "origin": "IST",
+    "destination": "VIE",
+    "destinationCountryIso": "AUT",
+    "airline": "Austrian Air",
+    "price": 8400,
+    "departureDate": "2026-06-08"
+  },
+  {
+    "origin": "IST",
+    "destination": "BER",
+    "destinationCountryIso": "DEU",
+    "airline": "Lufthansa",
+    "price": 11200,
+    "departureDate": "2026-06-09"
+  },
+  {
+    "origin": "IST",
+    "destination": "BKK",
+    "destinationCountryIso": "THA",
+    "airline": "Thai Airways",
+    "price": 26600,
+    "departureDate": "2026-06-10"
+  },
+  {
+    "origin": "IST",
+    "destination": "DOH",
+    "destinationCountryIso": "QAT",
+    "airline": "Qatar Airways",
+    "price": 16450,
+    "departureDate": "2026-06-11"
+  },
+  {
+    "origin": "IST",
+    "destination": "CAI",
+    "destinationCountryIso": "EGY",
+    "airline": "EgyptAir",
+    "price": 7700,
+    "departureDate": "2026-06-12"
+  },
+  {
+    "origin": "IST",
+    "destination": "MOW",
+    "destinationCountryIso": "RUS",
+    "airline": "Aeroflot",
+    "price": 11900,
+    "departureDate": "2026-06-13"
+  },
+  {
+    "origin": "IST",
+    "destination": "YYZ",
+    "destinationCountryIso": "CAN",
+    "airline": "Air Canada",
+    "price": 35700,
+    "departureDate": "2026-06-14"
+  },
+  {
+    "origin": "IST",
+    "destination": "NRT",
+    "destinationCountryIso": "JPN",
+    "airline": "Japan Air",
+    "price": 40250,
+    "departureDate": "2026-06-15"
+  },
+  {
+    "origin": "IST",
+    "destination": "ICN",
+    "destinationCountryIso": "KOR",
+    "airline": "Korean Air",
+    "price": 31150,
+    "departureDate": "2026-06-16"
+  },
+  {
+    "origin": "IST",
+    "destination": "SIN",
+    "destinationCountryIso": "SGP",
+    "airline": "Singapore Air",
+    "price": 34300,
+    "departureDate": "2026-06-17"
+  },
+  {
+    "origin": "IST",
+    "destination": "SYD",
+    "destinationCountryIso": "AUS",
+    "airline": "Qantas",
+    "price": 53900,
+    "departureDate": "2026-06-18"
+  },
+  {
+    "origin": "IST",
+    "destination": "ZRH",
+    "destinationCountryIso": "CHE",
+    "airline": "Swiss Intl. Air Lines",
+    "price": 12600,
+    "departureDate": "2026-06-19"
+  },
+  {
+    "origin": "IST",
+    "destination": "OSL",
+    "destinationCountryIso": "NOR",
+    "airline": "Norwegian Air",
+    "price": 15050,
+    "departureDate": "2026-06-20"
+  },
+  {
+    "origin": "IST",
+    "destination": "CPH",
+    "destinationCountryIso": "DNK",
+    "airline": "SAS",
+    "price": 14350,
+    "departureDate": "2026-06-21"
+  },
+  {
+    "origin": "IST",
+    "destination": "HEL",
+    "destinationCountryIso": "FIN",
+    "airline": "Finnair",
+    "price": 15750,
+    "departureDate": "2026-06-22"
+  },
+  {
+    "origin": "IST",
+    "destination": "PRG",
+    "destinationCountryIso": "CZE",
+    "airline": "Czech Air",
+    "price": 8750,
+    "departureDate": "2026-06-23"
+  },
+  {
+    "origin": "IST",
+    "destination": "WAW",
+    "destinationCountryIso": "POL",
+    "airline": "LOT Polish Air",
+    "price": 9450,
+    "departureDate": "2026-06-24"
+  },
+  {
+    "origin": "IST",
+    "destination": "BUD",
+    "destinationCountryIso": "HUN",
+    "airline": "Wizz Air",
+    "price": 4900,
+    "departureDate": "2026-06-25"
+  },
+  {
+    "origin": "IST",
+    "destination": "DUB",
+    "destinationCountryIso": "IRL",
+    "airline": "Ryanair",
+    "price": 10850,
+    "departureDate": "2026-06-26"
+  },
+  {
+    "origin": "IST",
+    "destination": "LIS",
+    "destinationCountryIso": "PRT",
+    "airline": "TAP Air Portugal",
+    "price": 16450,
+    "departureDate": "2026-06-27"
+  },
+  {
+    "origin": "IST",
+    "destination": "MEX",
+    "destinationCountryIso": "MEX",
+    "airline": "Aeromexico",
+    "price": 44800,
+    "departureDate": "2026-06-28"
+  },
+  {
+    "origin": "IST",
+    "destination": "GRU",
+    "destinationCountryIso": "BRA",
+    "airline": "LATAM Air",
+    "price": 52150,
+    "departureDate": "2026-06-29"
+  },
+  {
+    "origin": "IST",
+    "destination": "JNB",
+    "destinationCountryIso": "ZAF",
+    "airline": "South African Airways",
+    "price": 32200,
+    "departureDate": "2026-06-30"
+  },
+  {
+    "origin": "IST",
+    "destination": "DEL",
+    "destinationCountryIso": "IND",
+    "airline": "Air India",
+    "price": 23800,
+    "departureDate": "2026-07-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "KUL",
+    "destinationCountryIso": "MYS",
+    "airline": "Malaysia Air",
+    "price": 30450,
+    "departureDate": "2026-07-02"
+  },
+  {
+    "origin": "IST",
+    "destination": "PEK",
+    "destinationCountryIso": "CHN",
+    "airline": "Air China",
+    "price": 31850,
+    "departureDate": "2026-07-03"
+  },
+  {
+    "origin": "IST",
+    "destination": "MUC",
+    "destinationCountryIso": "DEU",
+    "airline": "Lufthansa",
+    "price": 11550,
+    "departureDate": "2026-07-04"
+  },
+  {
+    "origin": "IST",
+    "destination": "BRU",
+    "destinationCountryIso": "BEL",
+    "airline": "Brussels Air",
+    "price": 10850,
+    "departureDate": "2026-07-05"
+  },
+  {
+    "origin": "IST",
+    "destination": "ARN",
+    "destinationCountryIso": "SWE",
+    "airline": "SAS",
+    "price": 16100,
+    "departureDate": "2026-07-06"
+  },
+  {
+    "origin": "IST",
+    "destination": "DUS",
+    "destinationCountryIso": "DEU",
+    "airline": "Eurowings",
+    "price": 10150,
+    "departureDate": "2026-07-07"
+  },
+  {
+    "origin": "IST",
+    "destination": "BCN",
+    "destinationCountryIso": "ESP",
+    "airline": "Vueling",
+    "price": 12950,
+    "departureDate": "2026-07-08"
+  },
+  {
+    "origin": "IST",
+    "destination": "MAN",
+    "destinationCountryIso": "GBR",
+    "airline": "easyJet",
+    "price": 11900,
+    "departureDate": "2026-07-09"
+  },
+  {
+    "origin": "IST",
+    "destination": "OTP",
+    "destinationCountryIso": "ROU",
+    "airline": "Tarom",
+    "price": 5950,
+    "departureDate": "2026-07-10"
+  },
+  {
+    "origin": "IST",
+    "destination": "SOF",
+    "destinationCountryIso": "BGR",
+    "airline": "Bulgaria Air",
+    "price": 5250,
+    "departureDate": "2026-07-11"
+  },
+  {
+    "origin": "IST",
+    "destination": "TBS",
+    "destinationCountryIso": "GEO",
+    "airline": "Georgian Airways",
+    "price": 7350,
+    "departureDate": "2026-07-12"
+  },
+  {
+    "origin": "IST",
+    "destination": "EVN",
+    "destinationCountryIso": "ARM",
+    "airline": "FlyOne Armenia",
+    "price": 6300,
+    "departureDate": "2026-07-13"
+  },
+  {
+    "origin": "IST",
+    "destination": "BAKU",
+    "destinationCountryIso": "AZE",
+    "airline": "Azerbaijan Air",
+    "price": 9100,
+    "departureDate": "2026-07-14"
+  },
+  {
+    "origin": "IST",
+    "destination": "ALG",
+    "destinationCountryIso": "DZA",
+    "airline": "Air Algerie",
+    "price": 14350,
+    "departureDate": "2026-07-15"
+  },
+  {
+    "origin": "IST",
+    "destination": "CMN",
+    "destinationCountryIso": "MAR",
+    "airline": "Royal Air Maroc",
+    "price": 18550,
+    "departureDate": "2026-07-16"
+  },
+  {
+    "origin": "IST",
+    "destination": "TUN",
+    "destinationCountryIso": "TUN",
+    "airline": "Tunisair",
+    "price": 13650,
+    "departureDate": "2026-07-17"
+  },
+  {
+    "origin": "IST",
+    "destination": "RUH",
+    "destinationCountryIso": "SAU",
+    "airline": "Saudia",
+    "price": 17150,
+    "departureDate": "2026-07-18"
+  },
+  {
+    "origin": "IST",
+    "destination": "KWI",
+    "destinationCountryIso": "KWT",
+    "airline": "Kuwait Airways",
+    "price": 14700,
+    "departureDate": "2026-07-19"
+  },
+  {
+    "origin": "IST",
+    "destination": "MNL",
+    "destinationCountryIso": "PHL",
+    "airline": "Philippine Air",
+    "price": 34650,
+    "departureDate": "2026-07-20"
+  },
+  {
+    "origin": "IST",
+    "destination": "HKG",
+    "destinationCountryIso": "HKG",
+    "airline": "Cathay Pacific",
+    "price": 35350,
+    "departureDate": "2026-07-21"
+  },
+  {
+    "origin": "IST",
+    "destination": "AKL",
+    "destinationCountryIso": "NZL",
+    "airline": "Air New Zealand",
+    "price": 61250,
+    "departureDate": "2026-07-22"
+  },
+  {
+    "origin": "IST",
+    "destination": "SFO",
+    "destinationCountryIso": "USA",
+    "airline": "United Air",
+    "price": 39200,
+    "departureDate": "2026-07-23"
+  },
+  {
+    "origin": "IST",
+    "destination": "LAX",
+    "destinationCountryIso": "USA",
+    "airline": "Delta Air Lines",
+    "price": 41300,
+    "departureDate": "2026-07-24"
+  },
+  {
+    "origin": "IST",
+    "destination": "MIA",
+    "destinationCountryIso": "USA",
+    "airline": "American Air",
+    "price": 38150,
+    "departureDate": "2026-07-25"
+  },
+  {
+    "origin": "IST",
+    "destination": "ORD",
+    "destinationCountryIso": "USA",
+    "airline": "Turkish Air",
+    "price": 33950,
+    "departureDate": "2026-07-26"
+  },
+  {
+    "origin": "IST",
+    "destination": "HAV",
+    "destinationCountryIso": "CUB",
+    "airline": "Cubana de Aviación",
+    "price": 46200,
+    "departureDate": "2026-07-27"
+  },
+  {
+    "origin": "IST",
+    "destination": "SCL",
+    "destinationCountryIso": "CHL",
+    "airline": "LATAM Air",
+    "price": 55300,
+    "departureDate": "2026-07-28"
+  },
+  {
+    "origin": "IST",
+    "destination": "BOG",
+    "destinationCountryIso": "COL",
+    "airline": "Avianca",
+    "price": 49350,
+    "departureDate": "2026-07-29"
+  },
+  {
+    "origin": "IST",
+    "destination": "LIM",
+    "destinationCountryIso": "PER",
+    "airline": "Sky Airline",
+    "price": 52150,
+    "departureDate": "2026-07-30"
+  },
+  {
+    "origin": "IST",
+    "destination": "NBO",
+    "destinationCountryIso": "KEN",
+    "airline": "Kenya Airways",
+    "price": 30450,
+    "departureDate": "2026-07-31"
+  },
+  {
+    "origin": "IST",
+    "destination": "ADD",
+    "destinationCountryIso": "ETH",
+    "airline": "Ethiopian Air",
+    "price": 27650,
+    "departureDate": "2026-08-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "LOS",
+    "destinationCountryIso": "NGA",
+    "airline": "Air Peace",
+    "price": 32900,
+    "departureDate": "2026-08-02"
+  },
+  {
+    "origin": "IST",
+    "destination": "DAC",
+    "destinationCountryIso": "BGD",
+    "airline": "Biman Bangladesh Air",
+    "price": 29050,
+    "departureDate": "2026-08-03"
+  },
+  {
+    "origin": "IST",
+    "destination": "KTM",
+    "destinationCountryIso": "NPL",
+    "airline": "Himalaya Air",
+    "price": 26600,
+    "departureDate": "2026-08-04"
+  },
+  {
+    "origin": "IST",
+    "destination": "CMB",
+    "destinationCountryIso": "LKA",
+    "airline": "SriLankan Air",
+    "price": 24850,
+    "departureDate": "2026-08-05"
+  },
+  {
+    "origin": "IST",
+    "destination": "HAN",
+    "destinationCountryIso": "VNM",
+    "airline": "Vietnam Air",
+    "price": 32550,
+    "departureDate": "2026-08-06"
+  },
+  {
+    "origin": "IST",
+    "destination": "CGK",
+    "destinationCountryIso": "IDN",
+    "airline": "Garuda Indonesia",
+    "price": 34300,
+    "departureDate": "2026-08-07"
+  },
+  {
+    "origin": "IST",
+    "destination": "MLE",
+    "destinationCountryIso": "MDV",
+    "airline": "Maldivian",
+    "price": 43750,
+    "departureDate": "2026-08-08"
+  },
+  {
+    "origin": "IST",
+    "destination": "RIX",
+    "destinationCountryIso": "LVA",
+    "airline": "AirBaltic",
+    "price": 11900,
+    "departureDate": "2026-08-09"
+  },
+  {
+    "origin": "IST",
+    "destination": "VNO",
+    "destinationCountryIso": "LTU",
+    "airline": "Ryanair",
+    "price": 10150,
+    "departureDate": "2026-08-10"
+  },
+  {
+    "origin": "IST",
+    "destination": "TLL",
+    "destinationCountryIso": "EST",
+    "airline": "Nordica",
+    "price": 10850,
+    "departureDate": "2026-08-11"
+  },
+  {
+    "origin": "IST",
+    "destination": "SKP",
+    "destinationCountryIso": "MKD",
+    "airline": "Wizz Air",
+    "price": 4900,
+    "departureDate": "2026-08-12"
+  },
+  {
+    "origin": "IST",
+    "destination": "TIA",
+    "destinationCountryIso": "ALB",
+    "airline": "Air Albania",
+    "price": 5950,
+    "departureDate": "2026-08-13"
+  },
+  {
+    "origin": "IST",
+    "destination": "SJJ",
+    "destinationCountryIso": "BIH",
+    "airline": "FlyBosnia",
+    "price": 7700,
+    "departureDate": "2026-08-14"
+  },
+  {
+    "origin": "IST",
+    "destination": "ZAG",
+    "destinationCountryIso": "HRV",
+    "airline": "Croatia Air",
+    "price": 9100,
+    "departureDate": "2026-08-15"
+  },
+  {
+    "origin": "IST",
+    "destination": "LJU",
+    "destinationCountryIso": "SVN",
+    "airline": "Adria Airways",
+    "price": 9800,
+    "departureDate": "2026-08-16"
+  },
+  {
+    "origin": "IST",
+    "destination": "KBP",
+    "destinationCountryIso": "UKR",
+    "airline": "Ukraine Intl. Air",
+    "price": 8400,
+    "departureDate": "2026-08-17"
+  },
+  {
+    "origin": "IST",
+    "destination": "MSQ",
+    "destinationCountryIso": "BLR",
+    "airline": "Belavia",
+    "price": 12250,
+    "departureDate": "2026-08-18"
+  },
+  {
+    "origin": "IST",
+    "destination": "ALA",
+    "destinationCountryIso": "KAZ",
+    "airline": "Air Astana",
+    "price": 17850,
+    "departureDate": "2026-08-19"
+  },
+  {
+    "origin": "IST",
+    "destination": "FRU",
+    "destinationCountryIso": "KGZ",
+    "airline": "Kyrgyzstan Air",
+    "price": 16450,
+    "departureDate": "2026-08-20"
+  },
+  {
+    "origin": "IST",
+    "destination": "TAS",
+    "destinationCountryIso": "UZB",
+    "airline": "Uzbekistan Airways",
+    "price": 15050,
+    "departureDate": "2026-08-21"
+  },
+  {
+    "origin": "IST",
+    "destination": "DMM",
+    "destinationCountryIso": "SAU",
+    "airline": "Flynas",
+    "price": 13650,
+    "departureDate": "2026-08-22"
+  },
+  {
+    "origin": "IST",
+    "destination": "MCT",
+    "destinationCountryIso": "OMN",
+    "airline": "Oman Air",
+    "price": 18200,
+    "departureDate": "2026-08-23"
+  },
+  {
+    "origin": "IST",
+    "destination": "BAH",
+    "destinationCountryIso": "BHR",
+    "airline": "Gulf Air",
+    "price": 16800,
+    "departureDate": "2026-08-24"
+  },
+  {
+    "origin": "IST",
+    "destination": "AMM",
+    "destinationCountryIso": "JOR",
+    "airline": "Royal Jordanian",
+    "price": 11550,
+    "departureDate": "2026-08-25"
+  },
+  {
+    "origin": "IST",
+    "destination": "BEY",
+    "destinationCountryIso": "LBN",
+    "airline": "Middle East Air",
+    "price": 10850,
+    "departureDate": "2026-08-26"
+  },
+  {
+    "origin": "IST",
+    "destination": "IKA",
+    "destinationCountryIso": "IRN",
+    "airline": "Iran Air",
+    "price": 9450,
+    "departureDate": "2026-08-27"
+  },
+  {
+    "origin": "IST",
+    "destination": "KHI",
+    "destinationCountryIso": "PAK",
+    "airline": "Pakistan Intl. Air",
+    "price": 21700,
+    "departureDate": "2026-08-28"
+  },
+  {
+    "origin": "IST",
+    "destination": "ISB",
+    "destinationCountryIso": "PAK",
+    "airline": "SereneAir",
+    "price": 22400,
+    "departureDate": "2026-08-29"
+  },
+  {
+    "origin": "IST",
+    "destination": "ULN",
+    "destinationCountryIso": "MNG",
+    "airline": "MIAT Mongolian Air",
+    "price": 33250,
+    "departureDate": "2026-08-30"
+  },
+  {
+    "origin": "IST",
+    "destination": "PNH",
+    "destinationCountryIso": "KHM",
+    "airline": "Cambodia Angkor Air",
+    "price": 31150,
+    "departureDate": "2026-08-31"
+  },
+  {
+    "origin": "IST",
+    "destination": "VTE",
+    "destinationCountryIso": "LAO",
+    "airline": "Lao Air",
+    "price": 31850,
+    "departureDate": "2026-09-01"
+  },
+  {
+    "origin": "IST",
+    "destination": "RGN",
+    "destinationCountryIso": "MMR",
+    "airline": "Myanmar Airways",
+    "price": 30450,
+    "departureDate": "2026-09-02"
+  },
+  {
+    "origin": "IST",
+    "destination": "DPS",
+    "destinationCountryIso": "IDN",
+    "airline": "Batik Air",
+    "price": 39550,
+    "departureDate": "2026-09-03"
+  },
+  {
+    "origin": "IST",
+    "destination": "HNL",
+    "destinationCountryIso": "USA",
+    "airline": "Hawaiian Air",
+    "price": 65450,
+    "departureDate": "2026-09-04"
+  },
+  {
+    "origin": "IST",
+    "destination": "YVR",
+    "destinationCountryIso": "CAN",
+    "airline": "WestJet",
+    "price": 37800,
+    "departureDate": "2026-09-05"
+  },
+  {
+    "origin": "IST",
+    "destination": "EZE",
+    "destinationCountryIso": "ARG",
+    "airline": "Aerolineas Argentinas",
+    "price": 57750,
+    "departureDate": "2026-09-06"
+  },
+  {
+    "origin": "IST",
+    "destination": "UIO",
+    "destinationCountryIso": "ECU",
+    "airline": "LATAM Ecuador",
+    "price": 53200,
+    "departureDate": "2026-09-07"
+  },
+  {
+    "origin": "IST",
+    "destination": "GIG",
+    "destinationCountryIso": "BRA",
+    "airline": "Gol Linhas Aéreas",
+    "price": 51800,
+    "departureDate": "2026-09-08"
+  },
+  {
+    "origin": "IST",
+    "destination": "CPT",
+    "destinationCountryIso": "ZAF",
+    "airline": "Safair",
+    "price": 34650,
+    "departureDate": "2026-09-09"
+  },
+  {
+    "origin": "IST",
+    "destination": "DAR",
+    "destinationCountryIso": "TZA",
+    "airline": "Air Tanzania",
+    "price": 28700,
+    "departureDate": "2026-09-10"
+  },
+  {
+    "origin": "IST",
+    "destination": "ACC",
+    "destinationCountryIso": "GHA",
+    "airline": "Africa World Air",
+    "price": 30800,
+    "departureDate": "2026-09-11"
+  }
+]
