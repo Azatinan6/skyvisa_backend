@@ -35,8 +35,8 @@ public class TripController {
     public ResponseEntity<?> saveTrip(@RequestBody FlightRecommendationDTO dto, Principal principal) {
         User user = userRepository.findByEmail(principal.getName()).get();
         Country country = countryRepository.findByName(dto.getDestinationCountry());
-        Country city = countryRepository.findByName(dto.getDestinationCity());
-
+        String city = dto.getDestinationCity();
+        
         if (tripRepository.existsByUserAndDestinationCountryAndDestinationCity(user, country, city)) {
             // Hata mesajını da JSON formatında yollamak her zaman daha sağlıklıdır
             return ResponseEntity.status(HttpStatus.BAD_REQUEST)

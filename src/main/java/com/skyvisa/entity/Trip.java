@@ -36,9 +36,7 @@ public class Trip {
 	@JoinColumn(name = "destination_country_id", nullable = false)
 	private Country destinationCountry;
 
-	@ManyToOne(fetch = FetchType.EAGER)
-	@JoinColumn(name = "destination_city_id")
-	private Country destinationCity;
+	private String destinationCity;
 
 	private Double budget;
 

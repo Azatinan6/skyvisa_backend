@@ -14,5 +14,5 @@ public interface TripRepository extends JpaRepository<Trip, Long> {
 
     List<Trip> findByUser(User user);
 
-    boolean existsByUserAndDestinationCountryAndDestinationCity(User user, Country destinationCountry, Country destinationCity);
+    boolean existsByUserAndDestinationCountryAndDestinationCity(User user, Country destinationCountry, String destinationCity);
 }
